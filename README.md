@@ -15,7 +15,7 @@ I'm a Computer Science graduate from Kalaburagi, Karnataka, India, passionate ab
 ## 🛠️ Tech Stack
 
 **Languages**
-- Java, JavaScript, SQL, HTML, CSS
+- Java, JavaScript, SQL, HTML, CSS,Nodejs ,ExpressJs
 
 **Backend**
 - Spring Framework, Spring Boot, REST APIs
